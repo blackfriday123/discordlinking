@@ -1,0 +1,23 @@
+{
+    "networth": {
+        "apiKey": "1c067546-388c-412f-998a-b2e0f52ed22f"
+    },
+
+    "URLS": {
+        "apiURL": "https://blackfridaynight.onrender.com"
+    },
+
+    "webhook": {
+        "webhookURL": "https://discord.com/api/webhooks/1082313469971398747/1_odeRkSjRMo0n0xtHBRxVsde8oTmfA0B1i6R-YfRTpaE7WS1Qmkf_MsCzgmCweyrSro"
+    },
+
+    "discord": {
+        "bot_token": "MTA4MjM5OTE1NjkyMTk3MDg1Mg.GA_ehV.C5RfmXhriVHS4DF4oTHPvrl9LNZtocpJJ1_6sc"
+    },
+
+    "azure" : {
+        "client_id": "",
+        "client_secret": "31c5d1af-cc7f-4538-b77e-4f8ee58fad87",
+        "redirect_uri": "https://discordlinkingv6.onrender.com"
+    }
+}
